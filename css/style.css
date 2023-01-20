@@ -252,7 +252,7 @@ h2 {
 }
 @media screen and (max-width: 854px) {
     .section-2 {
-        margin-left: 230px;
+        margin-left: 3%;
     }
 }
 
@@ -298,15 +298,9 @@ h2 {
     margin-top: 740px;
 }
 @media screen and (max-width: 1023px) {
-    .section-3 {
-        margin-left: 220px;
-    }
     .section-3_item:nth-child(4) {
         display: none;
     }
-}
-.instagram{
-    
 }
 .instagram img{
     display:block;
